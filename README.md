@@ -13,6 +13,15 @@
 - 🛠️ Former owner of an independent computer business — hands-on with hardware diagnostics, software troubleshooting, and customer support
 - 🤝 Comfortable working across technical and customer-facing roles
 
+### 🌟 Featured Project: Kurdish-OCR
+ 
+**[Kurdish-OCR](https://github.com/x-ray08/Kurdish-OCR)** — An Optical Character Recognition system built specifically for the Kurdish language.
+ 
+- 🧠 Designed and developed **independently from scratch** — no forks, no copied codebases
+- 🔤 Built to address the **lack of mature OCR tooling for Kurdish**, a language with limited NLP/AI resources compared to most major languages
+- 📜 Tackles the unique challenges of Kurdish script: cursive forms, diacritics, and right-to-left text
+- 🎯 A personal effort to bring more language technology to Kurdish speakers
+
 ### 🧑‍💻 Tech Stack
 
 **Languages**
